@@ -78,10 +78,10 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/doywpqimw/video/upload/v1771072517/Love_Story_by_Indila_Ethereal_Instrumental_Full_Version_mqugsz.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/doywpqimw/video/upload/v1771073112/Relaxing_Music_Taylor_Swift_Love_Story_Violin_Piano_Version_Wedding_Song_koesmx.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 1.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
